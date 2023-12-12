@@ -2,7 +2,7 @@
   "client_dll": {
     "data": {
       "dwEntityList": {
-        "value": 24885280,
+        "value": 24885312,
         "comment": null
       },
       "dwForceAttack": {
@@ -86,11 +86,11 @@
         "comment": null
       },
       "dwViewAngles": {
-        "value": 25668672,
+        "value": 25668704,
         "comment": null
       },
       "dwViewMatrix": {
-        "value": 25272256,
+        "value": 25272288,
         "comment": null
       },
       "dwViewRender": {
